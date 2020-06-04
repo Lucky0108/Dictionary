@@ -1,2 +1,3 @@
-# Dictionary
-Dictionary To Check for meanings in a single click
+### Learn JS Basic
+# This will cover some of the basics of javascript.
+-> Site is live here :-
